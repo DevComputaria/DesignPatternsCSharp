@@ -1,4 +1,4 @@
-`Chain Of Responsibilities`__
+`Chain Of Responsibilities`
 =============================
 
 Purpose
