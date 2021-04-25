@@ -1,5 +1,0 @@
-`Chain Of Responsibilities`
-=============================
-
-Purpose
---------
