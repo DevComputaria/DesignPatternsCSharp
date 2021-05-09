@@ -46,9 +46,11 @@ Conforme mostrado na imagem acima, para fazer um pedido primeiro precisamos cria
 
 O Facade é, na verdade, uma classe extra que fica no topo da classe de método acima. Por favor, dê uma olhada no diagrama a seguir. 
 
-.. imagem:: img/c-users-pranaya-pictures-facade-design-pattern-im-768x240.png
+.. image:: img/c-users-pranaya-pictures-facade-design-pattern-im-768x240.png
    :alt: Alt AbstractFactory UML Diagram
    :align: center
+   
+
 
 
 Portanto, aqui a classe extra Ordem é a classe Facade que se responsabiliza pela realização do pedido. Essa classe cria internamente a instância das respectivas classes e chama o método. 
@@ -60,10 +62,13 @@ Compreendendo o diagrama de classes do padrão de projeto de fachada em C #:
 
 Vamos entender o diagrama de classes e os diferentes componentes envolvidos no padrão de projeto de Facade em C#. Para entender o diagrama de classes do Facade Design Pattern, dê uma olhada na imagem a seguir. 
 
-.. imagem:: img/c-users-pranaya-pictures-facade-design-pattern-in.png
+.. image:: img/c-users-pranaya-pictures-facade-design-pattern-in.png
    :alt: Alt AbstractFactory UML Diagram
    :align: center
-  
+   
+
+
+
 
 Conforme mostrado na imagem acima, existem duas classes envolvidas no Padrão de Projeto Facade. Eles são os seguintes:
 
