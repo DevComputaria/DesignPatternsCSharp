@@ -50,6 +50,7 @@ O Facade é, na verdade, uma classe extra que fica no topo da classe de método 
    :alt: Alt AbstractFactory UML Diagram
    :align: center
 
+
 Portanto, aqui a classe extra Ordem é a classe Facade que se responsabiliza pela realização do pedido. Essa classe cria internamente a instância das respectivas classes e chama o método. 
 
 
